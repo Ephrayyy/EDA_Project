@@ -1,0 +1,23 @@
+
+# Fichier de données
+creditcard.csv
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.pyc
+__pycache__/
+
+# Environnements virtuels
+.env/
+.venv/
+venv/
+ENV/
+
+# Cache Jupyter
+__pycache__/
